@@ -1,3 +1,3 @@
-# github.io
+my-web-page
 SeriousDaniel's site
 yeah.
